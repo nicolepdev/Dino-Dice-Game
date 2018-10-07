@@ -10,6 +10,9 @@
     </head>
 
     <body>
+<div class="game-title">
+    <h1>DINO DICE</h1>
+</div>
         <div class="wrapper clearfix">
             <div class="player-0-panel active">
                 <div class="player-name" id="name-0">Player 1</div>
@@ -28,12 +31,27 @@
                     <div class="player-current-score" id="current-1">0</div>
                 </div>
             </div>
-            
             <button class="btn-new"><i class="ion-ios-plus-outline"></i>Play again</button>
             <button class="btn-roll"><i class="ion-ios-loop"></i>Roll dice</button>
             <button class="btn-hold"><i class="ion-ios-download-outline"></i>Hold</button>
             
             <img src="dice-1.png" alt="Dice" class="dice">
+<div class="rules">
+    <h3>Rules</h3>
+<hr>
+<div class="rules">
+<p>
+    <ul>
+        <li>Game has two players playing in rounds.</li>
+<li>In each turn, a player rolls a dice as many times as they wish. Each roll is added to the round score.</li>
+<li>If a player rolls a 1, the round score is set to 0 and the turn is lost.</li>
+<li>Players can choose to 'hold', which means that the round score gets added to the game score.</li>
+<li>The first player to reach 100 wins.</li>
+<li>Have fun!</li>
+    </ul>
+</p>
+</div>
+    </div>
         </div>
         
         <script src="app.js"></script>
