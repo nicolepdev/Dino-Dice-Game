@@ -17,4 +17,4 @@
 * The first player to reach 100 wins.
 * Have fun!
 
-## See live demo: [Natours project](https://nicolepdev.github.io/Dino-Dice-Game/)
+## See live demo: [Dino Dice Game project](https://nicolepdev.github.io/Dino-Dice-Game/)
