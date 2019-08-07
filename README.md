@@ -1,3 +1,5 @@
+![Dinosaur Dice game screenshot](https://res.cloudinary.com/dqe0hw0ru/image/upload/v1565187774/dino_dice.png)
+
 # 🦕 Dino Dice Game
 ### JavaScript game project for [The Complete JavaScript Course](https://www.udemy.com/share/10008CAEMcdFhURHw=/)
 #### 📓 Instructor: Jonas Schmedtmann
